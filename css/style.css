@@ -172,7 +172,7 @@ border-radius: 4px;
 /* Особливості */
 
 .peculiarities-title-none {
- visibility: hidden;
+ display: none;
 }
 .peculiarities-title {
 font-weight: 700;
